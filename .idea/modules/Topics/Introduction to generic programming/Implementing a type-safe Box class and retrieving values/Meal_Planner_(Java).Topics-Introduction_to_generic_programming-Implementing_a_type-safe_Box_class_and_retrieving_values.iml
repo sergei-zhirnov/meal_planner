@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Introduction_to_generic_programming-Implementing_a_type-safe_Box_class_and_retrieving_values" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Meal Planner (Java)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

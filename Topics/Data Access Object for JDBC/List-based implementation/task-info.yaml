@@ -1,0 +1,42 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: "import java.util.*;\n\nclass User {\n    private int id;\n    private String\
+    \ name;\n\n    public User(int id, String name) {\n        this.id = id;\n   \
+    \     this.name = name;\n    }\n\n    public String getName() {\n        return\
+    \ name;\n    }\n\n    public void setName(String name) {\n        this.name =\
+    \ name;\n    }\n\n    public int getId() {\n        return id;\n    }\n\n    public\
+    \ void setId(int id) {\n        this.id = id;\n    }\n\n    @Override\n    public\
+    \ String toString() {\n        return \"User [id \" + id + \", name : \" + name\
+    \ + \"]\";\n    }\n}\n\ninterface UserDao {\n\n    void add(User user);\n\n  \
+    \  User get(int id);\n\n    void update(User user);\n\n    void delete(int id);\n\
+    }\n\nclass UserDaoImpl implements UserDao {\n    // declare data structure\n\n\
+    \    public UserDaoImpl() {\n        // write your code here\n    }\n\n    @Override\n\
+    \    public void add(User user) {\n        // write your code here\n    }\n\n\
+    \    @Override\n    public User get(int id) {\n        // write your code here\n\
+    \    }\n\n    @Override\n    public void update(User user) {\n        // write\
+    \ your code here\n    }\n\n    @Override\n    public void delete(int id) {\n \
+    \       // write your code here\n    }\n}\n\n/* Do not change code below */\n\
+    public class Main {\n    public static void main(String[] args) {\n        Scanner\
+    \ scanner = new Scanner(System.in); \n        UserDao userDao = new UserDaoImpl();\n\
+    \n        User user1 = new User(scanner.nextInt(), scanner.next());\n        User\
+    \ user2 = new User(scanner.nextInt(), scanner.next());\n        int inexistentId\
+    \ = scanner.nextInt();\n\n        userDao.add(user1);\n        userDao.add(user2);\n\
+    \n        // get first\n        System.out.println(\"Found \" + userDao.get(user1.getId()));\n\
+    \n        // get inexistent user\n        if (userDao.get(inexistentId) == null)\
+    \ {\n            System.out.println(\"Not found id \" + inexistentId);\n     \
+    \   }\n\n        // update and get\n        User updateUser = userDao.get(user2.getId());\n\
+    \        System.out.println(\"Found \" + updateUser);\n        updateUser.setName(\"\
+    UPDATED\");\n        userDao.update(updateUser);\n        System.out.println(\"\
+    Updated \" + userDao.get(user2.getId()));\n\n        // delete\n        userDao.delete(user2.getId());\n\
+    \        if (userDao.get(user2.getId()) == null) {\n            System.out.println(\"\
+    Deleted id: \" + user2.getId());\n        }\n    }\n}"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20196#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 02 May 2024 13:54:09 UTC"
+record: -1
+submission_language: java17

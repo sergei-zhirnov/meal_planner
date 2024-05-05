@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: A class can implement multiple interfaces.
+  - text: It's possible to create an instance of an interface.
+  - text: A class that implements an interface must implement default and static methods
+      declared in the interface.
+  - text: "An interface can contain abstract, default and static methods."
+files:
+  - name: src/Task.java
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      public class Task {
+        public static void main(String[] args) {
+          // put your code here
+        }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2119#comment
+status: Solved
+record: -1
+local_check: false

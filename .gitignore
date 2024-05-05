@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Meal Planner (Java)/task/build/
+/Meal Planner (Java)/task/out/
+/Meal Planner (Java)/task/out/production/classes/
+/Topics/ArrayList/Creating list/out/
+/Topics/ArrayList/Creating list/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Data Access Object for JDBC/List-based implementation/out/
+/Topics/Data Access Object for JDBC/List-based implementation/out/production/classes/
+/Topics/Data Access Object for JDBC/Map-based implementation/out/
+/Topics/Data Access Object for JDBC/Map-based implementation/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values/out/
+/Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values/out/production/classes/
+/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs/out/
+/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs/out/production/classes/
+/Topics/Method overriding/Implementing animal sounds through class inheritance/out/
+/Topics/Method overriding/Implementing animal sounds through class inheritance/out/production/classes/
+/Topics/Polymorphism/Determining the taste of fruits using method overriding/out/
+/Topics/Polymorphism/Determining the taste of fruits using method overriding/out/production/classes/
+/Topics/Polymorphism/Find mistake/out/
+/Topics/Polymorphism/Find mistake/out/production/classes/
+/Topics/Referencing subclass objects/Shape hierarchy with area and color/out/
+/Topics/Referencing subclass objects/Shape hierarchy with area and color/out/production/classes/
+/Topics/The Collections framework overview/Blacklist/out/
+/Topics/The Collections framework overview/Blacklist/out/production/classes/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/
+/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The Map interface/Create a map/out/
+/Topics/The Map interface/Create a map/out/production/classes/
+/Topics/The Map interface/How many entries/out/
+/Topics/The Map interface/How many entries/out/production/classes/
+/Topics/The Map interface/Sum of values/out/
+/Topics/The Map interface/Sum of values/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Strict superset/out/
+/Topics/The Set interface/Strict superset/out/production/classes/

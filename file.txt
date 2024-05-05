@@ -1,0 +1,12 @@
+bacon x8
+eggs x10
+chicken x3
+noodles x3
+pasta x7
+beans x8
+milk x3
+meat x3
+sausage x4
+tomato x3
+spices x4
+cheese x6

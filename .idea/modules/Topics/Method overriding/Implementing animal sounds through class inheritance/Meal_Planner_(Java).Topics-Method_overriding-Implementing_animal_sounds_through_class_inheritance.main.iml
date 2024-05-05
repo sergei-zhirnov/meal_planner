@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Method_overriding-Implementing_animal_sounds_through_class_inheritance:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Method overriding/Implementing animal sounds through class inheritance" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Meal Planner (Java)" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Method overriding/Implementing animal sounds through class inheritance/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Method overriding/Implementing animal sounds through class inheritance/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Method overriding/Implementing animal sounds through class inheritance/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

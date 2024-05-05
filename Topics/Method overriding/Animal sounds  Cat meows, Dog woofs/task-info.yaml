@@ -1,0 +1,48 @@
+type: code
+custom_name: "Animal sounds: Cat meows, Dog woofs"
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+              int animalType = scanner.nextInt();
+      
+              Animal animal;
+      
+              if (animalType == 1) {
+                  animal = new Cat();
+              } else if (animalType == 2) {
+                  animal = new Dog();
+              } else {
+                  animal = new Animal();
+              }
+      
+              animal.makeSound();
+          }
+      }
+      
+      class Animal {
+          public void makeSound() {
+              System.out.println("Generic sound");
+          }
+      }
+      
+      class Cat extends Animal {
+      
+      }
+      
+      class Dog extends Animal {
+      
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45629#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 10 Apr 2024 09:38:30 UTC"
+record: -1
+submission_language: java17

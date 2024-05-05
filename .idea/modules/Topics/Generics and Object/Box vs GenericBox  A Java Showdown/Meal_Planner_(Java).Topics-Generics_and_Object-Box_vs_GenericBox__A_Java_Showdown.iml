@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Generics_and_Object-Box_vs_GenericBox__A_Java_Showdown" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Generics and Object/Box vs GenericBox  A Java Showdown" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Meal Planner (Java)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Generics and Object/Box vs GenericBox  A Java Showdown">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Generics and Object/Box vs GenericBox  A Java Showdown/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Generics and Object/Box vs GenericBox  A Java Showdown/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Generics and Object/Box vs GenericBox  A Java Showdown/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

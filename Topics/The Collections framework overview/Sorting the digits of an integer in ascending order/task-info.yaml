@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.lang.Integer;
+      import java.util.ArrayList;
+      import java.util.Collections;
+      import java.util.List;
+      import java.util.Scanner;
+      
+      public class Main {
+          public static void main(String[] args) {
+      
+              Scanner scanner = new Scanner(System.in);
+              int number = scanner.nextInt();
+      
+              // Write your code here.
+          }
+      
+          public static List<Integer> convertToList(int number){
+              // Write your code here.
+              return null;
+          }
+      }'
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41171#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 13 Apr 2024 10:59:47 UTC"
+record: -1
+submission_language: java17

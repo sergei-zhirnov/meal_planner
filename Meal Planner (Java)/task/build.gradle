@@ -1,0 +1,8 @@
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.postgresql:postgresql:42.2.27'
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+}

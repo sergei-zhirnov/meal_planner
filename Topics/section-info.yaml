@@ -1,0 +1,14 @@
+content:
+  - Referencing subclass objects
+  - Method overriding
+  - Polymorphism
+  - Declaring functionality with interfaces
+  - Introduction to generic programming
+  - Generics and Object
+  - The Collections framework overview
+  - ArrayList
+  - The List interface
+  - The Set interface
+  - The Map interface
+  - Data Access Object for JDBC
+  - toString()

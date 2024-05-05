@@ -1,0 +1,84 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      // Abstract base class
+      abstract class Shape {
+          protected String color;
+      
+          public Shape(String color) {
+              this.color = color;
+          }
+      
+          public abstract double getArea();
+      }
+      
+      // Circle subclass
+      class Circle extends Shape {
+          private double radius;
+      
+          public Circle(String color, double radius) {
+              super(color);
+              this.radius = radius;
+          }
+      
+          // Override getArea method
+          @Override
+          public double getArea() {
+              // TODO: Calculate and return the area of the circle
+          }
+      }
+      
+      // Rectangle subclass
+      class Rectangle extends Shape {
+          private double length;
+          private double width;
+      
+          public Rectangle(String color, double length, double width) {
+              super(color);
+              this.length = length;
+              this.width = width;
+          }
+      
+          // Override getArea method
+          @Override
+          public double getArea() {
+              // TODO: Calculate and return the area of the rectangle
+          }
+      }
+      
+      public class Main {
+          public static void main(String[] args) {
+              Scanner scanner = new Scanner(System.in);
+      
+              // Create Circle instance
+              double radius = scanner.nextDouble();
+              String circleColor = scanner.next();
+              Circle circle = new Circle(circleColor, radius);
+      
+              // Create Rectangle instance
+              double length = scanner.nextDouble();
+              double width = scanner.nextDouble();
+              String rectangleColor = scanner.next();
+              Rectangle rectangle = new Rectangle(rectangleColor, length, width);
+      
+              // Print the area and color of each shape
+              System.out.println(circle.getArea());
+              System.out.println(circle.color);
+              System.out.println(rectangle.getArea());
+              System.out.println(rectangle.color);
+      
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45776#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 09 Apr 2024 17:18:24 UTC"
+record: -1
+submission_language: java17

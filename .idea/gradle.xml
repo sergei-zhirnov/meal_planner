@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Meal Planner (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Adding items" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/The behavior of methods" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/All we need is CRUD" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/DAO pattern in use" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/DAO pattern interface declaration" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/DAO pattern usage" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/Data stores usage" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/List-based implementation" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/Map-based implementation" />
+            <option value="$PROJECT_DIR$/Topics/Data Access Object for JDBC/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Implementing an interface" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/What are we implementing now" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functionality with interfaces/What does an interface define" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Box vs GenericBox  A Java Showdown" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Instance without type argument" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Creating instances" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes - 2" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Implementing a type-safe Box class and retrieving values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments - 2" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Animal sounds  Cat meows, Dog woofs" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Correctly overridden methods" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Implementing animal sounds through class inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Overriding rules" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Rules for overriding" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method overriding/Which methods will be overridden" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Determining the taste of fruits using method overriding" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Find mistake" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Runtime method resolution" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Runtime polymorphic behavior" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Superclass method call" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/The time of overloading" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Type of polymorphism" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Find incorrect assignments" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Incorrect assignments" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Invalid method invocations" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Select the correct statement" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Shape hierarchy with area and color" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Suitable types" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/The correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/Referencing subclass objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Blacklist" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Collections properties" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Root interfaces" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Sorting the digits of an integer in ascending order" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Supported collections" />
+            <option value="$PROJECT_DIR$/Topics/The Collections framework overview/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Mutable lists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Count sum" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Create a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Duplications" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/How many entries" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Is it a collection" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Is it true or not" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Superclasses of Map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Comparing sets" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The set of programming languages" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Tree set elements order" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Books as strings" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Class hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Convert persons and patients to string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Time as a string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Users as strings" />
+            <option value="$PROJECT_DIR$/Topics/toString()/toString method" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

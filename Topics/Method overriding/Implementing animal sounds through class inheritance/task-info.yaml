@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      public class Main {
+          public static void main(String[] args) {
+              // Your code here
+          }
+      }
+      
+      class Animal {
+          public String speak() {
+              // Your code here
+          }
+      }
+      
+      class Dog extends Animal {
+          public String speak() {
+              // Your code here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/40420#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 10 Apr 2024 09:25:01 UTC"
+record: -1
+submission_language: java17

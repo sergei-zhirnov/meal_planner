@@ -1,0 +1,48 @@
+type: code
+files:
+  - name: src/Fruit.java
+    visible: true
+    text: |-
+      // Import statements required
+      import java.util.Scanner;
+      
+      // Start with creating a superclass
+      public class Fruit {
+      
+          // Create a method taste()
+          public String taste() {
+              // Implement your code here
+          }
+      }
+      
+      // Create two subclasses Apple and Orange extending the Fruit class
+      
+      // Class for Apple
+      public class Apple extends Fruit {
+          // Override the taste() method here
+      }
+      
+      // Class for Orange
+      public class Orange extends Fruit {
+          // Override the taste() method here
+      }
+      
+      public class Main {
+          public static void main(String[] args) {
+              // Take the input of fruit type from the user
+              Scanner in = new Scanner(System.in);
+              String fruitType = in.nextLine();
+      
+              // Depending on the fruit type, create an object of the respective fruit class
+              // Call the taste() method and print the result
+      
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/45345#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 11 Apr 2024 09:10:57 UTC"
+record: -1
+submission_language: java17

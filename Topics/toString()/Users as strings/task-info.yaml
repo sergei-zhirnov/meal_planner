@@ -1,0 +1,26 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      class User {
+      
+          private String login;
+          private String firstName;
+          private String lastName;
+      
+          public User(String login, String firstName, String lastName) {
+              this.login = login;
+              this.firstName = firstName;
+              this.lastName = lastName;
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3000#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 04 May 2024 16:15:30 UTC"
+record: -1
+submission_language: java17
